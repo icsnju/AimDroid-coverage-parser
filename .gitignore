@@ -1,0 +1,10 @@
+# mvn
+target
+
+# eclipse, use mvn eclipse:eclipse to generate your project
+.classpath
+.project
+.settings
+
+classpath.Linux
+classpath.Windows

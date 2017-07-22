@@ -37,7 +37,7 @@
         1_mini_trace_xxxxx_coverage.dat
         4_mini_trace_xxxxx_coverage.dat
 
-3. Data directory produced by MoniDroid
+3. Data directory produced by AimDroid
 
 
         run.py -apk taobao.apk -moni ./com.taobao/coverage
